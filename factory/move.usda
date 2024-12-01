@@ -1,0 +1,2360 @@
+#usda 1.0
+(
+    defaultPrim = "World"
+    endTimeCode = 351
+    startTimeCode = 1
+    upAxis = "Y"
+)
+
+def Xform "World"
+{
+    def Xform "e_Tower_0" (
+        prepend references = @./tower.usdz@
+    )
+    {
+        double3 xformOp:translate = (-402.0220642089844, 0, -292.145751953125)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "e_Tower_1" (
+        prepend references = @./tower.usdz@
+    )
+    {
+        double3 xformOp:translate = (-352.48236083984375, 0, -293.6029357910156)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "e_Tower_2" (
+        prepend references = @./tower.usdz@
+    )
+    {
+        double3 xformOp:translate = (-303.2151794433594, 0, -294.7399597167969)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "e_Tower_500" (
+        prepend references = @./tower.usdz@
+    )
+    {
+        double3 xformOp:translate = (800, 0, -300)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 0, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 5, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 10, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 15, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 20, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 25, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 30, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 35, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 40, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 45, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_10" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 50, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_0_Stack_11" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 55, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 0, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 5, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 10, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 15, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 20, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 25, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 30, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 35, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 40, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 45, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_1_Stack_10" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (137.72491455078125, 50, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_2_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (243.2383575439453, 0, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_2_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (243.2383575439453, 5, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_2_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (243.2383575439453, 10, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_2_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (243.2383575439453, 15, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_2_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (243.2383575439453, 20, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_2_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (243.2383575439453, 25, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_2_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (243.2383575439453, 30, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_2_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (243.2383575439453, 35, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_2_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (243.2383575439453, 40, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 0, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 5, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 10, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 15, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 20, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 25, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 30, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 35, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 40, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 45, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_10" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 50, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_3_Stack_11" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (361.8526306152344, 55, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 0, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 5, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 10, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 15, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 20, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 25, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 30, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 35, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 40, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_4_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (477.3050842285156, 45, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_5_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (595.3749389648438, 0, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_5_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (595.3749389648438, 5, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_5_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (595.3749389648438, 10, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_5_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (595.3749389648438, 15, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_5_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (595.3749389648438, 20, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_5_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (595.3749389648438, 25, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_5_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (595.3749389648438, 30, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_5_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (595.3749389648438, 35, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_5_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (595.3749389648438, 40, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 0, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 5, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 10, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 15, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 20, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 25, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 30, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 35, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 40, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_1_Row_6_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (715.7920532226562, 45, -110)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 0, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 5, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 10, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 15, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 20, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 25, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 30, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 35, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 40, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 45, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_10" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 50, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_0_Stack_11" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 55, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_1_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (136.9405059814453, 0, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_1_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (136.9405059814453, 5, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_1_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (136.9405059814453, 10, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_1_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (136.9405059814453, 15, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_1_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (136.9405059814453, 20, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_1_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (136.9405059814453, 25, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_1_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (136.9405059814453, 30, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_1_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (136.9405059814453, 35, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_2_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (258.50372314453125, 0, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_2_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (258.50372314453125, 5, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_2_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (258.50372314453125, 10, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_2_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (258.50372314453125, 15, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_2_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (258.50372314453125, 20, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_2_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (258.50372314453125, 25, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_2_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (258.50372314453125, 30, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_2_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (258.50372314453125, 35, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 0, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 5, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 10, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 15, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 20, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 25, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 30, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 35, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 40, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_3_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (381.4559326171875, 45, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_4_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (501.7616271972656, 0, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_4_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (501.7616271972656, 5, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_4_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (501.7616271972656, 10, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_4_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (501.7616271972656, 15, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_4_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (501.7616271972656, 20, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_4_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (501.7616271972656, 25, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_4_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (501.7616271972656, 30, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_4_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (501.7616271972656, 35, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_4_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (501.7616271972656, 40, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 0, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 5, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 10, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 15, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 20, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 25, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 30, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 35, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 40, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_5_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (626.7076416015625, 45, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 0, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 5, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 10, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 15, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 20, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 25, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 30, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 35, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 40, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 45, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_10" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 50, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_2_Row_6_Stack_11" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (742.1953125, 55, 0)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "Forklift" (
+        prepend references = @./Forklift.usdz@
+    )
+    {
+        float xformOp:rotateY.timeSamples = {
+            1: 240,
+            2: 238.16327,
+            3: 236.32654,
+            4: 234.48979,
+            5: 232.65306,
+            6: 230.81633,
+            7: 228.9796,
+            8: 227.14285,
+            9: 225.30612,
+            10: 223.46939,
+            11: 221.63266,
+            12: 219.79591,
+            13: 217.95918,
+            14: 216.12245,
+            15: 214.28572,
+            16: 212.44897,
+            17: 210.61224,
+            18: 208.77551,
+            19: 206.93878,
+            20: 205.10204,
+            21: 203.2653,
+            22: 201.42857,
+            23: 199.59184,
+            24: 197.7551,
+            25: 195.91837,
+            26: 194.08163,
+            27: 192.2449,
+            28: 190.40816,
+            29: 188.57143,
+            30: 186.7347,
+            31: 184.89796,
+            32: 183.06122,
+            33: 181.22449,
+            34: 179.38776,
+            35: 177.55103,
+            36: 175.71428,
+            37: 173.87755,
+            38: 172.04082,
+            39: 170.20409,
+            40: 168.36734,
+            41: 166.53061,
+            42: 164.69388,
+            43: 162.85715,
+            44: 161.0204,
+            45: 159.18367,
+            46: 157.34694,
+            47: 155.51021,
+            48: 153.67346,
+            49: 151.83673,
+            50: 150,
+        }
+        float3 xformOp:scale = (0.3, 0.3, 0.3)
+        double3 xformOp:translate = (425.1241455078125, 0, 300)
+        double3 xformOp:translate.timeSamples = {
+            1: (425.1241455078125, 0, 300),
+            2: (425.1241455078125, 0, 297.9591979980469),
+            3: (425.1241455078125, 0, 295.9183654785156),
+            4: (425.1241455078125, 0, 293.8775634765625),
+            5: (425.1241455078125, 0, 291.83673095703125),
+            6: (425.1241455078125, 0, 289.7959289550781),
+            7: (425.1241455078125, 0, 287.7550964355469),
+            8: (425.1241455078125, 0, 285.71429443359375),
+            9: (425.1241455078125, 0, 283.6734619140625),
+            10: (425.1241455078125, 0, 281.6326599121094),
+            11: (425.1241455078125, 0, 279.5918273925781),
+            12: (425.1241455078125, 0, 277.551025390625),
+            13: (425.1241455078125, 0, 275.51019287109375),
+            14: (425.1241455078125, 0, 273.4693908691406),
+            15: (425.1241455078125, 0, 271.4285583496094),
+            16: (425.1241455078125, 0, 269.38775634765625),
+            17: (425.1241455078125, 0, 267.346923828125),
+            18: (425.1241455078125, 0, 265.3061218261719),
+            19: (425.1241455078125, 0, 263.26531982421875),
+            20: (425.1241455078125, 0, 261.2244873046875),
+            21: (425.1241455078125, 0, 259.1836853027344),
+            22: (425.1241455078125, 0, 257.1428527832031),
+            23: (425.1241455078125, 0, 255.10203552246094),
+            24: (425.1241455078125, 0, 253.06121826171875),
+            25: (425.1241455078125, 0, 251.02040100097656),
+            26: (425.1241455078125, 0, 248.97959899902344),
+            27: (425.1241455078125, 0, 246.93878173828125),
+            28: (425.1241455078125, 0, 244.89796447753906),
+            29: (425.1241455078125, 0, 242.85714721679688),
+            30: (425.1241455078125, 0, 240.8163299560547),
+            31: (425.1241455078125, 0, 238.7755126953125),
+            32: (425.1241455078125, 0, 236.7346954345703),
+            33: (425.1241455078125, 0, 234.69387817382812),
+            34: (425.1241455078125, 0, 232.65306091308594),
+            35: (425.1241455078125, 0, 230.61224365234375),
+            36: (425.1241455078125, 0, 228.57142639160156),
+            37: (425.1241455078125, 0, 226.53060913085938),
+            38: (425.1241455078125, 0, 224.4897918701172),
+            39: (425.1241455078125, 0, 222.448974609375),
+            40: (425.1241455078125, 0, 220.4081573486328),
+            41: (425.1241455078125, 0, 218.36734008789062),
+            42: (425.1241455078125, 0, 216.3265380859375),
+            43: (425.1241455078125, 0, 214.2857208251953),
+            44: (425.1241455078125, 0, 212.24490356445312),
+            45: (425.1241455078125, 0, 210.20408630371094),
+            46: (425.1241455078125, 0, 208.16326904296875),
+            47: (425.1241455078125, 0, 206.12245178222656),
+            48: (425.1241455078125, 0, 204.08163452148438),
+            49: (425.1241455078125, 0, 202.0408172607422),
+            50: (425.1241455078125, 0, 200),
+            51: (425.1241455078125, 0, 200),
+            52: (418.4127502441406, 0, 200),
+            53: (411.7013244628906, 0, 200),
+            54: (404.98992919921875, 0, 200),
+            55: (398.27850341796875, 0, 200),
+            56: (391.5671081542969, 0, 200),
+            57: (384.8556823730469, 0, 200),
+            58: (378.144287109375, 0, 200),
+            59: (371.432861328125, 0, 200),
+            60: (364.7214660644531, 0, 200),
+            61: (358.0100402832031, 0, 200),
+            62: (351.29864501953125, 0, 200),
+            63: (344.58721923828125, 0, 200),
+            64: (337.8758239746094, 0, 200),
+            65: (331.1644287109375, 0, 200),
+            66: (324.4530029296875, 0, 200),
+            67: (317.7416076660156, 0, 200),
+            68: (311.0301818847656, 0, 200),
+            69: (304.31878662109375, 0, 200),
+            70: (297.60736083984375, 0, 200),
+            71: (290.8959655761719, 0, 200),
+            72: (284.1845397949219, 0, 200),
+            73: (277.47314453125, 0, 200),
+            74: (270.76171875, 0, 200),
+            75: (264.0503234863281, 0, 200),
+            76: (257.3388977050781, 0, 200),
+            77: (250.62750244140625, 0, 200),
+            78: (243.9160919189453, 0, 200),
+            79: (237.20468139648438, 0, 200),
+            80: (230.49327087402344, 0, 200),
+            81: (223.7818603515625, 0, 200),
+            82: (217.07044982910156, 0, 200),
+            83: (210.35903930664062, 0, 200),
+            84: (203.6476287841797, 0, 200),
+            85: (196.9362335205078, 0, 200),
+            86: (190.22482299804688, 0, 200),
+            87: (183.51341247558594, 0, 200),
+            88: (176.802001953125, 0, 200),
+            89: (170.09059143066406, 0, 200),
+            90: (163.37918090820312, 0, 200),
+            91: (156.6677703857422, 0, 200),
+            92: (149.95635986328125, 0, 200),
+            93: (143.2449493408203, 0, 200),
+            94: (136.53353881835938, 0, 200),
+            95: (129.82212829589844, 0, 200),
+            96: (123.11072540283203, 0, 200),
+            97: (116.3993148803711, 0, 200),
+            98: (109.68790435791016, 0, 200),
+            99: (102.97649383544922, 0, 200),
+            100: (96.26508331298828, 0, 200),
+            101: (89.55367279052734, 0, 200),
+            102: (82.84226989746094, 0, 200),
+            103: (76.130859375, 0, 200),
+            104: (69.41944885253906, 0, 200),
+            105: (62.708038330078125, 0, 200),
+            106: (55.99662780761719, 0, 200),
+            107: (49.285221099853516, 0, 200),
+            108: (42.57381057739258, 0, 200),
+            109: (35.86240005493164, 0, 200),
+            110: (29.150991439819336, 0, 200),
+            111: (22.4395809173584, 0, 200),
+            112: (15.728172302246094, 0, 200),
+            113: (9.016762733459473, 0, 200),
+            114: (2.3053536415100098, 0, 200),
+            115: (-4.406055927276611, 0, 200),
+            116: (-11.117465019226074, 0, 200),
+            117: (-17.828874588012695, 0, 200),
+            118: (-24.540283203125, 0, 200),
+            119: (-31.251693725585938, 0, 200),
+            120: (-37.963104248046875, 0, 200),
+            121: (-44.67451095581055, 0, 200),
+            122: (-51.385921478271484, 0, 200),
+            123: (-58.09733200073242, 0, 200),
+            124: (-64.8087387084961, 0, 200),
+            125: (-71.52014923095703, 0, 200),
+            126: (-78.23155975341797, 0, 200),
+            127: (-84.9429702758789, 0, 200),
+            128: (-91.65438079833984, 0, 200),
+            129: (-98.36578369140625, 0, 200),
+            130: (-105.07719421386719, 0, 200),
+            131: (-111.78860473632812, 0, 200),
+            132: (-118.50001525878906, 0, 200),
+            133: (-125.21142578125, 0, 200),
+            134: (-131.92283630371094, 0, 200),
+            135: (-138.63424682617188, 0, 200),
+            136: (-145.3456573486328, 0, 200),
+            137: (-152.05706787109375, 0, 200),
+            138: (-158.7684783935547, 0, 200),
+            139: (-165.47988891601562, 0, 200),
+            140: (-172.1912841796875, 0, 200),
+            141: (-178.90269470214844, 0, 200),
+            142: (-185.61410522460938, 0, 200),
+            143: (-192.3255157470703, 0, 200),
+            144: (-199.03692626953125, 0, 200),
+            145: (-205.7483367919922, 0, 200),
+            146: (-212.45974731445312, 0, 200),
+            147: (-219.17115783691406, 0, 200),
+            148: (-225.882568359375, 0, 200),
+            149: (-232.59397888183594, 0, 200),
+            150: (-239.30538940429688, 0, 200),
+            151: (-246.0167999267578, 0, 200),
+            152: (-252.72821044921875, 0, 200),
+            153: (-259.4396057128906, 0, 200),
+            154: (-266.1510314941406, 0, 200),
+            155: (-272.8624267578125, 0, 200),
+            156: (-279.5738525390625, 0, 200),
+            157: (-286.2852478027344, 0, 200),
+            158: (-292.9966735839844, 0, 200),
+            159: (-299.70806884765625, 0, 200),
+            160: (-306.4194641113281, 0, 200),
+            161: (-313.1308898925781, 0, 200),
+            162: (-319.84228515625, 0, 200),
+            163: (-326.5537109375, 0, 200),
+            164: (-333.2651062011719, 0, 200),
+            165: (-339.9765319824219, 0, 200),
+            166: (-346.68792724609375, 0, 200),
+            167: (-353.39935302734375, 0, 200),
+            168: (-360.1107482910156, 0, 200),
+            169: (-366.8221740722656, 0, 200),
+            170: (-373.5335693359375, 0, 200),
+            171: (-380.2449951171875, 0, 200),
+            172: (-386.9563903808594, 0, 200),
+            173: (-393.66778564453125, 0, 200),
+            174: (-400.37921142578125, 0, 200),
+            175: (-407.0906066894531, 0, 200),
+            176: (-413.8020324707031, 0, 200),
+            177: (-420.513427734375, 0, 200),
+            178: (-427.224853515625, 0, 200),
+            179: (-433.9362487792969, 0, 200),
+            180: (-440.6476745605469, 0, 200),
+            181: (-447.35906982421875, 0, 200),
+            182: (-454.07049560546875, 0, 200),
+            183: (-460.7818908691406, 0, 200),
+            184: (-467.4933166503906, 0, 200),
+            185: (-474.2047119140625, 0, 200),
+            186: (-480.9161376953125, 0, 200),
+            187: (-487.6275329589844, 0, 200),
+            188: (-494.33892822265625, 0, 200),
+            189: (-501.05035400390625, 0, 200),
+            190: (-507.7617492675781, 0, 200),
+            191: (-514.47314453125, 0, 200),
+            192: (-521.1845703125, 0, 200),
+            193: (-527.89599609375, 0, 200),
+            194: (-534.607421875, 0, 200),
+            195: (-541.3187866210938, 0, 200),
+            196: (-548.0302124023438, 0, 200),
+            197: (-554.7416381835938, 0, 200),
+            198: (-561.4530639648438, 0, 200),
+            199: (-568.1644287109375, 0, 200),
+            200: (-574.8758544921875, 0, 200),
+        }
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:scale", "xformOp:rotateY"]
+    }
+
+    def Xform "Truck" (
+        prepend references = @./Truck.usdz@
+    )
+    {
+        float xformOp:rotateY = 180
+        float xformOp:rotateY.timeSamples = {
+            201: 180,
+            202: 181.83673,
+            203: 183.67346,
+            204: 185.51021,
+            205: 187.34694,
+            206: 189.18367,
+            207: 191.0204,
+            208: 192.85715,
+            209: 194.69388,
+            210: 196.53061,
+            211: 198.36734,
+            212: 200.20409,
+            213: 202.04082,
+            214: 203.87755,
+            215: 205.71428,
+            216: 207.55103,
+            217: 209.38776,
+            218: 211.22449,
+            219: 213.06122,
+            220: 214.89796,
+            221: 216.7347,
+            222: 218.57143,
+            223: 220.40816,
+            224: 222.2449,
+            225: 224.08163,
+            226: 225.91837,
+            227: 227.7551,
+            228: 229.59184,
+            229: 231.42857,
+            230: 233.2653,
+            231: 235.10204,
+            232: 236.93878,
+            233: 238.77551,
+            234: 240.61224,
+            235: 242.44897,
+            236: 244.28572,
+            237: 246.12245,
+            238: 247.95918,
+            239: 249.79591,
+            240: 251.63266,
+            241: 253.46939,
+            242: 255.30612,
+            243: 257.14285,
+            244: 258.97958,
+            245: 260.8163,
+            246: 262.65308,
+            247: 264.4898,
+            248: 266.32654,
+            249: 268.16327,
+            250: 270,
+        }
+        float3 xformOp:scale = (0.1, 0.1, 0.1)
+        double3 xformOp:translate = (900.248291015625, 0, 300)
+        double3 xformOp:translate.timeSamples = {
+            201: (900.248291015625, 0, 300),
+            202: (898.20751953125, 0, 297.9591979980469),
+            203: (896.1666870117188, 0, 295.9183654785156),
+            204: (894.1258544921875, 0, 293.8775634765625),
+            205: (892.0850219726562, 0, 291.83673095703125),
+            206: (890.0442504882812, 0, 289.7959289550781),
+            207: (888.00341796875, 0, 287.7550964355469),
+            208: (885.9625854492188, 0, 285.71429443359375),
+            209: (883.9218139648438, 0, 283.6734619140625),
+            210: (881.8809814453125, 0, 281.6326599121094),
+            211: (879.8401489257812, 0, 279.5918273925781),
+            212: (877.79931640625, 0, 277.551025390625),
+            213: (875.758544921875, 0, 275.51019287109375),
+            214: (873.7177124023438, 0, 273.4693908691406),
+            215: (871.6768798828125, 0, 271.4285583496094),
+            216: (869.6360473632812, 0, 269.38775634765625),
+            217: (867.5952758789062, 0, 267.346923828125),
+            218: (865.554443359375, 0, 265.3061218261719),
+            219: (863.5136108398438, 0, 263.26531982421875),
+            220: (861.4727783203125, 0, 261.2244873046875),
+            221: (859.4320068359375, 0, 259.1836853027344),
+            222: (857.3911743164062, 0, 257.1428527832031),
+            223: (855.350341796875, 0, 255.10203552246094),
+            224: (853.3095703125, 0, 253.06121826171875),
+            225: (851.2687377929688, 0, 251.02040100097656),
+            226: (849.2279052734375, 0, 248.97959899902344),
+            227: (847.1870727539062, 0, 246.93878173828125),
+            228: (845.1463012695312, 0, 244.89796447753906),
+            229: (843.10546875, 0, 242.85714721679688),
+            230: (841.0646362304688, 0, 240.8163299560547),
+            231: (839.0238037109375, 0, 238.7755126953125),
+            232: (836.9830322265625, 0, 236.7346954345703),
+            233: (834.9421997070312, 0, 234.69387817382812),
+            234: (832.9013671875, 0, 232.65306091308594),
+            235: (830.8605346679688, 0, 230.61224365234375),
+            236: (828.8197631835938, 0, 228.57142639160156),
+            237: (826.7789306640625, 0, 226.53060913085938),
+            238: (824.7380981445312, 0, 224.4897918701172),
+            239: (822.6973266601562, 0, 222.448974609375),
+            240: (820.656494140625, 0, 220.4081573486328),
+            241: (818.6156616210938, 0, 218.36734008789062),
+            242: (816.5748291015625, 0, 216.3265380859375),
+            243: (814.5340576171875, 0, 214.2857208251953),
+            244: (812.4932250976562, 0, 212.24490356445312),
+            245: (810.452392578125, 0, 210.20408630371094),
+            246: (808.4115600585938, 0, 208.16326904296875),
+            247: (806.3707885742188, 0, 206.12245178222656),
+            248: (804.3299560546875, 0, 204.08163452148438),
+            249: (802.2891235351562, 0, 202.0408172607422),
+            250: (800.248291015625, 0, 200),
+            251: (800.248291015625, 0, 200),
+            252: (788.1270751953125, 0, 200),
+            253: (776.0059204101562, 0, 200),
+            254: (763.8847045898438, 0, 200),
+            255: (751.7634887695312, 0, 200),
+            256: (739.6422729492188, 0, 200),
+            257: (727.5210571289062, 0, 200),
+            258: (715.3998413085938, 0, 200),
+            259: (703.2786254882812, 0, 200),
+            260: (691.1574096679688, 0, 200),
+            261: (679.0361938476562, 0, 200),
+            262: (666.9149780273438, 0, 200),
+            263: (654.7937622070312, 0, 200),
+            264: (642.6725463867188, 0, 200),
+            265: (630.5513305664062, 0, 200),
+            266: (618.4301147460938, 0, 200),
+            267: (606.3088989257812, 0, 200),
+            268: (594.1876831054688, 0, 200),
+            269: (582.0665283203125, 0, 200),
+            270: (569.9453125, 0, 200),
+            271: (557.8240966796875, 0, 200),
+            272: (545.702880859375, 0, 200),
+            273: (533.5816650390625, 0, 200),
+            274: (521.46044921875, 0, 200),
+            275: (509.3392333984375, 0, 200),
+            276: (497.218017578125, 0, 200),
+            277: (485.0968017578125, 0, 200),
+            278: (472.9755859375, 0, 200),
+            279: (460.8543701171875, 0, 200),
+            280: (448.733154296875, 0, 200),
+            281: (436.6119384765625, 0, 200),
+            282: (424.4907531738281, 0, 200),
+            283: (412.3695373535156, 0, 200),
+            284: (400.2483215332031, 0, 200),
+            285: (388.1271057128906, 0, 200),
+            286: (376.0058898925781, 0, 200),
+            287: (363.8846740722656, 0, 200),
+            288: (351.7634582519531, 0, 200),
+            289: (339.6422424316406, 0, 200),
+            290: (327.52105712890625, 0, 200),
+            291: (315.39984130859375, 0, 200),
+            292: (303.27862548828125, 0, 200),
+            293: (291.15740966796875, 0, 200),
+            294: (279.03619384765625, 0, 200),
+            295: (266.91497802734375, 0, 200),
+            296: (254.7937774658203, 0, 200),
+            297: (242.6725616455078, 0, 200),
+            298: (230.5513458251953, 0, 200),
+            299: (218.4301300048828, 0, 200),
+            300: (206.30892944335938, 0, 200),
+            301: (194.18771362304688, 0, 200),
+            302: (182.06649780273438, 0, 200),
+            303: (169.94528198242188, 0, 200),
+            304: (157.82408142089844, 0, 200),
+            305: (145.70286560058594, 0, 200),
+            306: (133.58164978027344, 0, 200),
+            307: (121.46044158935547, 0, 200),
+            308: (109.33922576904297, 0, 200),
+            309: (97.21800994873047, 0, 200),
+            310: (85.0968017578125, 0, 200),
+            311: (72.9755859375, 0, 200),
+            312: (60.85437774658203, 0, 200),
+            313: (48.7331657409668, 0, 200),
+            314: (36.61195373535156, 0, 200),
+            315: (24.490741729736328, 0, 200),
+            316: (12.369528770446777, 0, 200),
+            317: (0.24831660091876984, 0, 200),
+            318: (-11.872895240783691, 0, 200),
+            319: (-23.994108200073242, 0, 200),
+            320: (-36.115318298339844, 0, 200),
+            321: (-48.23653030395508, 0, 200),
+            322: (-60.35774230957031, 0, 200),
+            323: (-72.47895812988281, 0, 200),
+            324: (-84.60016632080078, 0, 200),
+            325: (-96.72138214111328, 0, 200),
+            326: (-108.84259033203125, 0, 200),
+            327: (-120.96380615234375, 0, 200),
+            328: (-133.08502197265625, 0, 200),
+            329: (-145.2062225341797, 0, 200),
+            330: (-157.3274383544922, 0, 200),
+            331: (-169.4486541748047, 0, 200),
+            332: (-181.5698699951172, 0, 200),
+            333: (-193.69107055664062, 0, 200),
+            334: (-205.81228637695312, 0, 200),
+            335: (-217.93350219726562, 0, 200),
+            336: (-230.05471801757812, 0, 200),
+            337: (-242.17591857910156, 0, 200),
+            338: (-254.29713439941406, 0, 200),
+            339: (-266.4183349609375, 0, 200),
+            340: (-278.53955078125, 0, 200),
+            341: (-290.6607666015625, 0, 200),
+            342: (-302.781982421875, 0, 200),
+            343: (-314.9031982421875, 0, 200),
+            344: (-327.0244140625, 0, 200),
+            345: (-339.1456298828125, 0, 200),
+            346: (-351.266845703125, 0, 200),
+            347: (-363.3880615234375, 0, 200),
+            348: (-375.5092468261719, 0, 200),
+            349: (-387.6304626464844, 0, 200),
+            350: (-399.7516784667969, 0, 200),
+        }
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateY", "xformOp:scale"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 0, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 5, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 10, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 15, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 20, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 25, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 30, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 35, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 40, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 45, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_0_Stack_10" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (0, 50, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 0, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 5, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 10, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 15, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 20, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 25, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 30, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 35, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 40, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 45, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_10" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 50, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_1_Stack_11" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (124.05782318115234, 55, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_2_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (261.1073913574219, 0, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_2_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (261.1073913574219, 5, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_2_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (261.1073913574219, 10, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_2_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (261.1073913574219, 15, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_2_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (261.1073913574219, 20, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_2_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (261.1073913574219, 25, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_2_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (261.1073913574219, 30, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_2_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (261.1073913574219, 35, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_2_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (261.1073913574219, 40, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 0, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 5, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 10, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 15, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 20, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 25, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 30, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 35, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 40, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_3_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (387.1905822753906, 45, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_4_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (499.2916259765625, 0, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_4_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (499.2916259765625, 5, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_4_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (499.2916259765625, 10, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_4_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (499.2916259765625, 15, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_4_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (499.2916259765625, 20, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_4_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (499.2916259765625, 25, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_4_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (499.2916259765625, 30, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_4_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (499.2916259765625, 35, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 0, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 5, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 10, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 15, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 20, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 25, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 30, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 35, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 40, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_5_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (607.0745849609375, 45, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 0, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 5, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 10, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 15, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 20, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 25, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 30, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 35, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 40, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_9" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 45, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_6_Stack_10" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (745.6082153320312, 50, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_7_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (858.4773559570312, 0, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_7_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (858.4773559570312, 5, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_7_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (858.4773559570312, 10, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_7_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (858.4773559570312, 15, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_7_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (858.4773559570312, 20, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_7_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (858.4773559570312, 25, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_7_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (858.4773559570312, 30, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_7_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (858.4773559570312, 35, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_8_Stack_0" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (966.8333129882812, 0, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_8_Stack_1" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (966.8333129882812, 5, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_8_Stack_2" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (966.8333129882812, 10, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_8_Stack_3" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (966.8333129882812, 15, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_8_Stack_4" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (966.8333129882812, 20, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_8_Stack_5" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (966.8333129882812, 25, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_8_Stack_6" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (966.8333129882812, 30, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_8_Stack_7" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (966.8333129882812, 35, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+
+    def Xform "SteelPlate_3_Row_8_Stack_8" (
+        prepend references = @./Steel_Plate.usdz@
+    )
+    {
+        double3 xformOp:translate = (966.8333129882812, 40, 600)
+        uniform token[] xformOpOrder = ["xformOp:translate"]
+    }
+}
+
